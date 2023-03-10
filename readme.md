@@ -18,7 +18,7 @@
 
 <div style="width:100%; margin-top:3rem;display:flex;justify-content:center;">
   <image 
-    src="./documents/2023-03-10_165831.png"
+    src="./documents/images/2023-03-10_165831.png"
     alt="logo"
     width="750px"
     height="500px"
@@ -29,7 +29,7 @@
 
 <div style="width:100%; margin-top:3rem;display:flex;justify-content:center;">
   <image 
-    src="./documents/P1180596.jpg"
+    src="./documents/images/P1180596.JPG"
     alt="logo"
     width="750px"
     height="500px"
@@ -40,7 +40,7 @@
 
 <div style="width:100%; margin-top:3rem;display:flex;justify-content:center;">
   <image 
-    src="./documents/P1180583.jpg"
+    src="./documents/images/P1180583.JPG"
     alt="logo"
     width="750px"
     height="500px"
@@ -51,7 +51,7 @@
 
 <div style="width:100%; margin-top:3rem;display:flex;justify-content:center;">
   <image 
-    src="./documents/P1180577.jpg"
+    src="./documents/images/P1180577.JPG"
     alt="logo"
     width="750px"
     height="650px"
